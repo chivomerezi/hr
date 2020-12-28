@@ -1,0 +1,48 @@
+MERN 
+
+Mongo?
+R/: Usamos Mongoose para poder conectar con la base de datos. 
+    Utilizamos este driver por que nos permite modelar los datos 
+    antes de ingresarlos a la base de datos. (ORM)
+
+    Se usa Cors para poder conectar el backend con el frontend.
+
+    Usamos Dotenv para poder mantener variables de entorno dentro del la
+    pc. 
+    
+    Principalmente por su gran relacion con Javascript
+  
+Express?
+
+React?
+
+NodeJS?
+
+R/: 
+	Index.js -> Es el encargado de poder iniciar nuestro servidor de backend. 
+	App.js -> Aqui podemos encontrar el codigo del framework.
+	database.js -> Contiene solo el codigo para la conexion con la base de datos. 
+
+	controllers -> En esta carpeta se van a encontrar las funciones cuando se visiten 
+			diferentes URLs
+	models -> Aqui se definen los datos para poder validarlos antes de ser ingresados en
+		  la base da datos 
+
+	routes -> nos permite definir cuales son las URLs
+
+
+
+
+
+{
+
+        "id": "id",
+        "nombre": "nombre",
+        "apellido1": "apellido1",
+        "apellido2": "apellido2",
+        "telefono": "telefono",
+        "email": "email",
+        "foto": "foto",
+        "idJefe": "idJefe"
+
+    }

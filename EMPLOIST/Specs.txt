@@ -1,0 +1,42 @@
+1.	You explain us what you did in the code and how you implemented. (~15 min)
+2.	Questions from you to me  on anything related with the position or any other 
+	question. ( as much you need)
+
+Please go to your personal Gitlab Repo push the code you produce. Please reply this email 
+as soon as you finish the exercise. (extra points if you complete before that time)
+
+Requirements:
+
+Project: Employees Management
+
+Description: HR is looking for a tool where they can have the list of employees with their
+personal information
+
+User Stories:
+
+•	As an HR representative I want to have a search functionality so I can look for 
+	specific employees (by name or by ID)
+•	As an HR representative I want to see the list of employees that matches the 
+	entered criteria ordered by name
+•	As an HR representative I want the results list to show the picture of the 
+	employee along with their name and ID
+•	As an HR representative I want to have the functionality to add new employees with
+	their personal information (ID, Name, Picture, Phone number, Email, Hire Date, 
+	Manager ID)
+•	As an HR representative I want to be able to click on a record of the list and 
+	see a popup with the details of the employee (ID, Name, Picture, Phone number, 
+	Email, Hire Date, Time worked for the company, Manager ID)
+•	As an HR representative I want previous popup to allow me to edit the employee's 
+	personal information
+•	As an HR representative I want to be able to delete employees
+•	As an IT representative I want the application to have an API so it can be 
+	consumed by other departments
+•	As an IT representative I want the front-end to be built in NET Core or Angular 5+.
+	(or any other technology you feel comfortable with)
+•	As an IT representative I have no constraints on the usage of any third-party 
+	libraries (Bootstrap, Material, Redux) .(or any other technology you feel 
+	comfortable with)
+•	As an IT representative I want the backend to be built using NdoeJS or .Net Core.
+ 	.(or any other technology you feel comfortable with)
+•	As an IT representative I want the database engine to be Mongo, PostgreSQL or 
+	SQL Server. .(or any other technology you feel comfortable with)
